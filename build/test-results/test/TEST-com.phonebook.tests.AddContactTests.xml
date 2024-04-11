@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.phonebook.tests.AddContactTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-04-11T09:02:13" hostname="MacBook-Air-Irena.local" time="99.558">
+  <properties/>
+  <testcase name="addContactPositiveTestFromDataProviderWithCsvFile[0](Contact{name='John', phone='1234567890', email='john.doe@example.com'})" classname="com.phonebook.tests.AddContactTests" time="3.429"/>
+  <testcase name="addContactPositiveTestFromDataProviderWithCsvFile[1](Contact{name='Jane', phone='9876543210', email='jane.smith@example.com'})" classname="com.phonebook.tests.AddContactTests" time="2.514"/>
+  <testcase name="addContactPositiveTestFromDataProviderWithCsvFile[2](Contact{name='Alex', phone='55512345670', email='alex.johnson@example.com'})" classname="com.phonebook.tests.AddContactTests" time="2.206"/>
+  <testcase name="addContactPositiveTestFromDataProviderWithCsvFile[3](Contact{name='Emily', phone='32165498700', email='emily.brown@example.com'})" classname="com.phonebook.tests.AddContactTests" time="3.192"/>
+  <testcase name="addContactPositiveTestFromDataProviderWithCsvFile[4](Contact{name='Michael', phone='77788899990', email='michael.lee@example.com'})" classname="com.phonebook.tests.AddContactTests" time="2.643"/>
+  <testcase name="addContactPositiveTestFromDataProviderWithCsvFile[5](Contact{name='Sarah', phone='44455566660', email='sarah.clark@example.com'})" classname="com.phonebook.tests.AddContactTests" time="2.523"/>
+  <testcase name="addContactPositiveTestFromDataProviderWithCsvFile[6](Contact{name='Anna', phone='11122233330', email='anna.garcia@example.com'})" classname="com.phonebook.tests.AddContactTests" time="2.188"/>
+  <testcase name="addContactPositiveTestFromDataProviderWithCsvFile[7](Contact{name='David', phone='99988877770', email='david.martinez@example.com'})" classname="com.phonebook.tests.AddContactTests" time="2.629"/>
+  <system-out><![CDATA[11:02:12.579 [Test worker] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveTestFromDataProviderWithCsvFilewith data: [Contact{name='John', phone='1234567890', email='john.doe@example.com'}]
+11:02:17.281 [Test worker] INFO  com.phonebook.tests.TestBase -- PASSED addContactPositiveTestFromDataProviderWithCsvFile
+11:02:17.282 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop Test
+11:02:17.283 [Test worker] INFO  com.phonebook.tests.TestBase -- ===============================================================
+11:02:17.287 [Test worker] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveTestFromDataProviderWithCsvFilewith data: [Contact{name='Jane', phone='9876543210', email='jane.smith@example.com'}]
+11:02:30.863 [Test worker] INFO  com.phonebook.tests.TestBase -- PASSED addContactPositiveTestFromDataProviderWithCsvFile
+11:02:30.865 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop Test
+11:02:30.866 [Test worker] INFO  com.phonebook.tests.TestBase -- ===============================================================
+11:02:30.868 [Test worker] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveTestFromDataProviderWithCsvFilewith data: [Contact{name='Alex', phone='55512345670', email='alex.johnson@example.com'}]
+11:02:44.091 [Test worker] INFO  com.phonebook.tests.TestBase -- PASSED addContactPositiveTestFromDataProviderWithCsvFile
+11:02:44.092 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop Test
+11:02:44.092 [Test worker] INFO  com.phonebook.tests.TestBase -- ===============================================================
+11:02:44.095 [Test worker] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveTestFromDataProviderWithCsvFilewith data: [Contact{name='Emily', phone='32165498700', email='emily.brown@example.com'}]
+11:02:58.803 [Test worker] INFO  com.phonebook.tests.TestBase -- PASSED addContactPositiveTestFromDataProviderWithCsvFile
+11:02:58.803 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop Test
+11:02:58.804 [Test worker] INFO  com.phonebook.tests.TestBase -- ===============================================================
+11:02:58.807 [Test worker] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveTestFromDataProviderWithCsvFilewith data: [Contact{name='Michael', phone='77788899990', email='michael.lee@example.com'}]
+11:03:12.549 [Test worker] INFO  com.phonebook.tests.TestBase -- PASSED addContactPositiveTestFromDataProviderWithCsvFile
+11:03:12.549 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop Test
+11:03:12.550 [Test worker] INFO  com.phonebook.tests.TestBase -- ===============================================================
+11:03:12.554 [Test worker] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveTestFromDataProviderWithCsvFilewith data: [Contact{name='Sarah', phone='44455566660', email='sarah.clark@example.com'}]
+11:03:26.186 [Test worker] INFO  com.phonebook.tests.TestBase -- PASSED addContactPositiveTestFromDataProviderWithCsvFile
+11:03:26.187 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop Test
+11:03:26.187 [Test worker] INFO  com.phonebook.tests.TestBase -- ===============================================================
+11:03:26.189 [Test worker] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveTestFromDataProviderWithCsvFilewith data: [Contact{name='Anna', phone='11122233330', email='anna.garcia@example.com'}]
+11:03:39.544 [Test worker] INFO  com.phonebook.tests.TestBase -- PASSED addContactPositiveTestFromDataProviderWithCsvFile
+11:03:39.544 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop Test
+11:03:39.545 [Test worker] INFO  com.phonebook.tests.TestBase -- ===============================================================
+11:03:39.552 [Test worker] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveTestFromDataProviderWithCsvFilewith data: [Contact{name='David', phone='99988877770', email='david.martinez@example.com'}]
+11:03:53.295 [Test worker] INFO  com.phonebook.tests.TestBase -- PASSED addContactPositiveTestFromDataProviderWithCsvFile
+11:03:53.296 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop Test
+11:03:53.297 [Test worker] INFO  com.phonebook.tests.TestBase -- ===============================================================
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

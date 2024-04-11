@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.phonebook.tests.CreateAccountTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-10T16:54:35" hostname="MacBook-Air-Irena.local" time="1.325">
+  <properties/>
+  <testcase name="createNewAccountWithExistedEmailNegativeTest" classname="com.phonebook.tests.CreateAccountTests" time="1.325"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

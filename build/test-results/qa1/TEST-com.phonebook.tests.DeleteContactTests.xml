@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.phonebook.tests.DeleteContactTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-10T16:54:38" hostname="MacBook-Air-Irena.local" time="11.637">
+  <properties/>
+  <testcase name="deleteContactPositiveTest" classname="com.phonebook.tests.DeleteContactTests" time="11.637"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
